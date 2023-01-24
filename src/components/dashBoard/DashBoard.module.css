@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.centerImg {
+    z-index: 1;
+  border-radius: 30px;
+  width: 500px;
+  background-color: antiquewhite;
+}
+
+.centerImg:hover {
+    cursor: pointer;
+   transform: scale(3);
+  }
