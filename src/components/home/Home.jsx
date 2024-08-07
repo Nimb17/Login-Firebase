@@ -53,7 +53,7 @@ export function Home(props) {
         <div className="containerMain">
           <Window className="window">
             <WindowHeader className="window-title">
-              <span>siZod.exe</span>
+              <span>siZoddddd.exe</span>
               <Button>
                 <span className="close-icon" />
               </Button>
